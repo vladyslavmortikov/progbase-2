@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "Beby",
+        "Loti",
+        "Miko",
+        "Serhiy",
+        "Uati"
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "sstream": "cpp",
+        "fstream": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp"
+    }
+}

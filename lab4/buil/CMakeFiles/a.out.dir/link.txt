@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/a.out.dir/deque.cpp.o CMakeFiles/a.out.dir/list.cpp.o CMakeFiles/a.out.dir/main.cpp.o  -o a.out -lprogbase -lm 

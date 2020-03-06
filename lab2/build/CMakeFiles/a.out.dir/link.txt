@@ -1,0 +1,1 @@
+/usr/bin/cc -g -std=c11 -Wall -Werror -Wno-unused  -rdynamic CMakeFiles/a.out.dir/csv.c.o CMakeFiles/a.out.dir/list.c.o CMakeFiles/a.out.dir/main.c.o  -o ../a.out -lprogbase -lm 

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vladislav/Desktop/KPI/progbase2/labs/lab4/deque.cpp
+deque.hpp
+/home/vladislav/Desktop/KPI/progbase2/labs/lab4/deque.hpp
+
+/home/vladislav/Desktop/KPI/progbase2/labs/lab4/deque.hpp
+cstdlib
+-
+cstdio
+-
+
+/home/vladislav/Desktop/KPI/progbase2/labs/lab4/list.cpp
+list.hpp
+/home/vladislav/Desktop/KPI/progbase2/labs/lab4/list.hpp
+
+/home/vladislav/Desktop/KPI/progbase2/labs/lab4/list.hpp
+cstdlib
+-
+cstdio
+-
+
+/home/vladislav/Desktop/KPI/progbase2/labs/lab4/main.cpp
+list.hpp
+/home/vladislav/Desktop/KPI/progbase2/labs/lab4/list.hpp
+deque.hpp
+/home/vladislav/Desktop/KPI/progbase2/labs/lab4/deque.hpp
+

@@ -1,0 +1,3 @@
+/home/vladislav/Desktop/KPI/progbase2/labs/lab2/build/CMakeFiles/rebuild_cache.dir
+/home/vladislav/Desktop/KPI/progbase2/labs/lab2/build/CMakeFiles/a.out.dir
+/home/vladislav/Desktop/KPI/progbase2/labs/lab2/build/CMakeFiles/edit_cache.dir

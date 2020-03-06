@@ -1,0 +1,5 @@
+<lections>
+    <lections lectorer="Steven Lett" id="1" title="C++Programming" students="100"/>
+    <lections lectorer="Victor Sirkovych" id="2" title="History of Ukraine" students="77"/>
+    <lections lectorer="Victor Legeza" id="3" title="Math" students="40"/>
+</lections>
